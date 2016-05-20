@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Knox3DP
+tags: [about, 3d printing, additive manufacturing, CAD]
 date: 2016-03-21
 ---
-    
+<center> Still in the process of building! Coming soon! </center>
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
