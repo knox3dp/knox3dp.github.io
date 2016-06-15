@@ -39,17 +39,17 @@ disqus_shortname:   alexpawlowski
 #bing-verify:
 #email:
 twitter:            knox3dp
-facebook:           username
+#facebook:           username
 github:             knox3dp
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -66,6 +66,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
 
 jekyll-mentions:
     base_url: https://github.com
