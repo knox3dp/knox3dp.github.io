@@ -26,13 +26,13 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   alexpawlowski
+disqus_shortname:   knox3dp
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:       UA-44543225-4
   #verify:
   #ad-client:
   #ad-slot:
