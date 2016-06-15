@@ -4,11 +4,11 @@ bio:                '3d printing group in Knoxville'
 description:        "From breaking plastic parts to printing cars, prosthetics, we'll cover it all."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/knox3dp-logo-idea4.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/knox3dp-logo.png'
+background:         'assets/img/3dp-lattice-sm.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://knox3dp.org/
+url:                http://knox3dp.org
 
 # Jekyll
 permalink:          /:title/
