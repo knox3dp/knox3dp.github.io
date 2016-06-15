@@ -10,3 +10,5 @@ __Knox3dp__ is a local 3d printing and CAD group that started as the Knoxville C
 
 Join us on [Meetup!](http://www.meetup.com/Knoxville-CAD-Fusion-360) and join the `#3dprinting` channel on the [KnoxDevs](http://knoxdevs.org) Slack group!
 <center><iframe src="http://knoxdevs-slackin.herokuapp.com/iframe?large" style="border-width: 0px; width: 161px; height: 30px;" /></center>
+
+Theme designed by [Taylan Tatlı](https://github.com/TaylanTatli/Moon) under a MIT license that is free to use and remix. 
