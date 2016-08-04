@@ -4,6 +4,7 @@ title: Fusion 360: How, What, Why
 tags: [Fusion 360, 3d Printing, CAD]
 date: 2016-08-03
 feature: assets/images/flyer.svg
+description: Brief overview of everything Fusion 360 has to offer, plus a bit of news about the Make Knox Summit
 ---
 <div class="theme-font-montserrat theme-color-black-orange" style="width: 100%; height: 100%;">
     <div class="reveal">
