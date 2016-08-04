@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+<!doctype html>
+<html>
+	<head>
+      {% include head-slide.html %}
+	</head>
+	<body>
+      {{ content }}
+
+		<script src="reveal.js-3.3.0/lib/js/head.min.js"></script>
+		<script src="reveal.js-3.3.0/js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+        center: false,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
