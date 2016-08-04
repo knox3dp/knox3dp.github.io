@@ -3,5 +3,53 @@ layout: page
 title: "404"
 permalink: /404
 ---
+<style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+</style>
+
+<div class="tooltip">
+  <img src="http://66.media.tumblr.com/cbf6528467f1d715924b9fddf1b8dbf7/tumblr_moc63xtOl31sukl1qo1_1280.jpg" >
+  <span class="tooltiptext">From <a href="http://epic3dprintingfail.tumblr.com/">EPIC 3D Printing Fails</a></span>
+</div>
 <p>Uh-oh, a Print Error has occured.</p>
 <p>If you've followed a link expecting something to be here, you can <a href="mailto:{{ site.email }}?subject=Page%20not%20found">contact us</a>.</p>
