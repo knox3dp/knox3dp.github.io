@@ -67,48 +67,11 @@ description: Brief overview of everything Fusion 360 has to offer, plus a bit of
                     <div class="sl-block-content" style="z-index: 13;" dir="ui">
                         <ul>
                             <li class="fragment" data-fragment-index="0">
-                                <a href="http://knox3dp.org/about/" target="_blank">Join</a> KnoxDevs Slack Team + join the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;channel&nbsp;
+                                <a href="http://knox3dp.org/about/" target="_blank">Join</a> the <a href="http://knoxdevs.com" target="_blank">KnoxDevs</a> Slack Team + join the #3dprinting channel
+                            </li>
+                            <li class="fragment" data-fragment-index="1">CodeStock was a Roaring Success: 600+ developers
                             </li>
                         </ul>
-                    </div>
-                </div>
-                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 114px; height: 32px; left: 640px; top: 161px;">
-                    <div class="sl-block-content fragment" style="z-index: 14;" data-highlight-theme="solarized-light" data-fragment-index="0">
-                        <pre class="none">
-                            <code>#3dprinting</code></pre>
-                    </div>
-                </div>
-                <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 85px; height: 85px; left: 875px; top: 615px;">
-                    <div class="sl-block-content" style="z-index: 11;">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
-                    </div>
-                </div>
-                <div class="sl-block" data-block-type="iframe" style="min-width: 30px; min-height: 30px; width: 800px; height: 351px; left: 80px; top: 264px;">
-                    <div class="sl-block-content fragment" style="z-index: 17;" data-fragment-index="0">
-                        <iframe webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" sandbox="allow-forms allow-scripts allow-popups allow-same-origin allow-pointer-lock" data-src="http://knoxdevs.com/"></iframe>
-                    </div>
-                </div>
-            </section>
-            <section>
-                <div class="sl-block" data-block-type="text" style="width: 800px; left: 97px; top: 70px; height: auto;">
-                    <div class="sl-block-content" style="color: rgb(117, 74, 126); z-index: 12;">
-                        <h2>In the News....</h2>
-                    </div>
-                </div>
-                <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 153px; height: auto;">
-                    <div class="sl-block-content" style="z-index: 13;" dir="ui">
-                        <ul>
-                            <li class="fragment" data-fragment-index="0">
-                                <a href="http://knox3dp.org/about/" target="_blank">Join</a> KnoxDevs Slack Team + join the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;channel&nbsp;
-                            </li>
-                            <li class="fragment" data-fragment-index="1">CodeStock was a Roaring Success: 600+ developers</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="sl-block" data-block-type="code" style="width: 114px; height: 32px; left: 640px; top: 161px;">
-                    <div class="sl-block-content fragment" style="z-index: 14;" data-highlight-theme="solarized-light" data-fragment-index="0">
-                        <pre class="none">
-                            <code>#3dprinting</code></pre>
                     </div>
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 85px; height: 85px; left: 875px; top: 615px;">
@@ -136,20 +99,14 @@ description: Brief overview of everything Fusion 360 has to offer, plus a bit of
                 <div class="sl-block" data-block-type="text" style="width: 800px; left: 80px; top: 153px; height: auto;">
                     <div class="sl-block-content" style="z-index: 13;" dir="ui">
                         <ul>
-                            <li class="fragment" data-fragment-index="0">
-                                <a href="http://knox3dp.org/about/" target="_blank">Join</a> KnoxDevs Slack Team + join the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;channel&nbsp;
-                            </li>
+                          <li class="fragment" data-fragment-index="0">
+                              <a href="http://knox3dp.org/about/" target="_blank">Join</a> the <a href="http://knoxdevs.com" target="_blank">KnoxDevs</a> Slack Team + join the #3dprinting channel
+                          </li>
                             <li class="fragment" data-fragment-index="1">
                                 <a href="https://www.eventbrite.com/e/make-knox-summit-save-the-date-tickets-26305027044?aff=es2" target="_blank">Make Knox Summit</a>
                             </li>
                             <li class="fragment" data-fragment-index="3">Next Meeting: Aug 31</li>
                         </ul>
-                    </div>
-                </div>
-                <div class="sl-block" data-block-type="code" style="width: 114px; height: 32px; left: 640px; top: 161px;">
-                    <div class="sl-block-content fragment" style="z-index: 14;" data-highlight-theme="solarized-light" data-fragment-index="0">
-                        <pre class="none">
-                            <code>#3dprinting</code></pre>
                     </div>
                 </div>
                 <div class="sl-block" data-block-type="iframe" style="width: 800px; height: 351px; left: 80px; top: 287px;">
