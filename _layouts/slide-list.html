@@ -15,24 +15,30 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="post-title">
+                <div class="slide-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div class="post-list">
-                    {% for slide in site.slides %}
-                        {% if slide.project == null %}
-                    <ul>
+                <div class="slide-list">
+                  {% capture url_prefix %}{{ page.url | remove_first: 'index.html'}}{% endcapture %}
+                  {% capture key_prefix %}:{{url_prefix}}{% endcapture %}
+                    <ul class="pages">
+                        {% for subpage in site.pages %}
+                         {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
+                         {% if subpage_key contains key_prefix and subpage.url != page.url %}
+                          {% if subpage.project == null %}
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ slide.url }}">{{ slide.title }}</a>
                             <p>{{ slide.description }}</p>
                             <a href="{{ site.url }}{{ slide.url }}" class="btn zoombtn">View Slides</a>
                         </li>
+                          {% endif %}
+                          {% endif %}
+                        {% endfor %}
                     </ul>
-                        {% endif %}
-                    {% endfor %}
+
                 </div>
             </div>
         </div>

@@ -5,24 +5,22 @@
 
 
 {% ifhascontent slide-css %}
-  <script type="text/javascript">
     {% contentblock slide-css no-convert %}
-  </script>
 {% endifhascontent %}
 {% ifnothascontent slide-css %}
-<link rel="stylesheet" href="reveal.js-3.3.0/css/reveal.css">
-<link rel="stylesheet" href="reveal.js-3.3.0/css/theme/black.css">
+   <link rel="stylesheet" href="{{ site.url }}/reveal.js-3.3.0/css/reveal.css">
+   <link rel="stylesheet" href="{{ site.url }}/reveal.js-3.3.0/css/theme/black.css">
 {% endifnothascontent %}
 
 <!-- Theme used for syntax highlighting of code -->
-<link rel="stylesheet" href="reveal.js-3.3.0/lib/css/zenburn.css">
+<link rel="stylesheet" href="{{ site.url }}/reveal.js-3.3.0/lib/css/zenburn.css">
 
 <!-- Printing and PDF exports -->
 <script>
   var link = document.createElement( 'link' );
   link.rel = 'stylesheet';
   link.type = 'text/css';
-  link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+  link.href = window.location.search.match( /print-pdf/gi ) ? '{{ site.url }}/reveal.js-3.3.0/css/print/pdf.css' : '{{ site.url }}/reveal.js-3.3.0/css/print/paper.css';
   document.getElementsByTagName( 'head' )[0].appendChild( link );
 </script>
 
