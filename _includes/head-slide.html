@@ -1,16 +1,11 @@
 <meta charset="utf-8">
-<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+{% include_relative style.html %}
 
-{% ifhascontent slide-css %}
-    {% contentblock slide-css no-convert %}
-{% endifhascontent %}
-{% ifnothascontent slide-css %}
    <link rel="stylesheet" href="{{ site.url }}/reveal.js-3.3.0/css/reveal.css">
    <link rel="stylesheet" href="{{ site.url }}/reveal.js-3.3.0/css/theme/black.css">
-{% endifnothascontent %}
+
 
 <!-- Theme used for syntax highlighting of code -->
 <link rel="stylesheet" href="{{ site.url }}/reveal.js-3.3.0/lib/css/zenburn.css">
