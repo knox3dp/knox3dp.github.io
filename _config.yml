@@ -5,10 +5,10 @@ description:        "From breaking plastic parts to printing cars, prosthetics, 
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/knox3dp-logo.png'
-background:         'assets/img/3dp-lattice-sm.jpg'
+background:         'assets/img/tw-background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#url:                #http://knox3dp.org
+url:                http://knox3dp.org
 
 # Jekyll
 permalink:          /:title/
