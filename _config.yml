@@ -1,75 +1,47 @@
-# Site
-title:              knox3dp
-bio:                '3d printing group in Knoxville'
-description:        "From breaking plastic parts to printing cars, prosthetics, we'll cover it all."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/knox3dp-logo.png'
-#background:         'assets/img/tw-background.png'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                http://knox3dp.org
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: expanded # compressed # expanded
 
-# Comments
-disqus_shortname:   knox3dp
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
 
-# Social
-# if you don't have any of social below, comment the line.
-google:
-  #plus:            #username
-  analytics:       UA-44543225-4
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            knox3dp
-#facebook:           username
-github:             knox3dp
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+# SEO settings
+title: Knox3DP
+description: "Meetup in Knoxville, TN devoted to 3d printing and CAD"
+keywords: "3d printing, Tennessee, Knoxville, CAD, additive manufacturing"
 
-# Gems
+# Site settings
+url: http://knox3dp.org
+baseurl: ""
+# baseurl: ""
+
+# Author settings
+author:
+  name      : Alex Pawlowski
+  job       : President
+  bio       : "Triathlete, PhD student at UT, love to compete and enjoy every moment"
+  thumb     : /images/author.jpg
+  email     : organizer@knox3dp.org
+  url       : http://knox3dp.org
+  twitter   : https://twitter.com/knox3dp
+  meetup    : http://www.meetup.com/knox3dp/
+  #instagram : https://www.instagram.com/tntrivols/
+
+google_analytics: UA-44543225-4
+repo: http://github.com/knox3dp/knox3dp.github.io
+
+# comments
+disqus_shortname: "knox3dp"
+
 gems:
-  - jekyll-mentions
-  - jekyll-feed
+  - github-pages
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-seo-tag
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

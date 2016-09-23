@@ -1,50 +1,29 @@
 ---
-layout: compress
+layout: default
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
-<head>
-    {% include head.html %}
-</head>
-<body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="slide-title">
-                    <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-home"></i>
-                    </a>
-                </div>
-                <div class="slide-list">
-                  {% capture url_prefix %}{{ page.url | remove_first: 'index.html'}}{% endcapture %}
-                  {% capture key_prefix %}:{{url_prefix}}{% endcapture %}
-                    <ul class="pages">
-                        {% for subpage in site.pages %}
-                         {% capture subpage_key %}:{{ subpage.url }}{% endcapture %}
-                         {% if subpage_key contains key_prefix and subpage.url != page.url %}
-                          {% if subpage.project == null %}
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ slide.url }}">{{ slide.title }}</a>
-                            <p>{{ slide.description }}</p>
-                            <a href="{{ site.url }}{{ slide.url }}" class="btn zoombtn">View Slides</a>
-                        </li>
-                          {% endif %}
-                          {% endif %}
-                        {% endfor %}
-                    </ul>
 
-                </div>
-            </div>
-        </div>
-    </header>
-    {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
-</body>
-</html>
+<section class="post-list">
+
+  <header class="post-header intro">
+    <div class="intro-in">
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h2 class="intro-subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </div>
+  </header>
+
+  {% for slide in site.slides %}
+    <article class="post-item container">
+      <header>
+        <span class="post-meta">{{ slide.date | date: "%b %-d, %Y" }}</span>
+        <h1 class="post-title">
+          <a class="post-link" href="{{ slide.url | prepend: site.baseurl }}">{{ slide.title }}</a>
+        </h1>
+      </header>
+
+      <p>{{ slide.description | strip_html | truncatewords: 56 }} <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to: {{ slide.title }}" class="read-more">View slides</a></p>
+    </article>
+  {% endfor %}
+
+</section>
