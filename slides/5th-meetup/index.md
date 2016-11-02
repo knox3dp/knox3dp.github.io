@@ -17,7 +17,6 @@ description: Info about G-Code and Slicers
                     </div>
                     <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 114px; height: 114px; left: 846px; top: 586px;">
                         <div class="sl-block-content" style="z-index: 12;" data-inline-svg="true">
-                            <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                             <svg
                                 xmlns:dc="http://purl.org/dc/elements/1.1/"
                                 xmlns:cc="http://creativecommons.org/ns#"
@@ -384,7 +383,6 @@ description: Info about G-Code and Slicers
                 <section class="has-light-background" data-background-color="#ffffff">
                     <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 493.289px; height: 700px; left: 233px; top: 0px;">
                         <div class="sl-block-content" style="z-index: 11;" data-inline-svg="true">
-                            <img data-natural-width="105" data-natural-height="149" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/3186354/flyer.svg"/>
                             <svg
                                 xmlns:dc="http://purl.org/dc/elements/1.1/"
                                 xmlns:cc="http://creativecommons.org/ns#"
@@ -886,7 +884,6 @@ description: Info about G-Code and Slicers
             <section class="has-dark-background" data-background-color="#000000">
                 <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 11;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -1275,7 +1272,6 @@ description: Info about G-Code and Slicers
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 13;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -1634,7 +1630,6 @@ description: Info about G-Code and Slicers
                 </div>
                 <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 182.353px; height: 31px; left: 709px; top: 239px;">
                     <a class="sl-block-content fragment" style="z-index: 14;" data-inline-svg="true" href="https://en.wikipedia.org/wiki/FANUC#Control_.2F_device_naming_conventions" target="_blank" data-fragment-index="2">
-                        <img data-natural-width="200" data-natural-height="34" data-src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Fanuc_logo.svg"/>
                         <svg
                             xmlns:svg="http://www.w3.org/2000/svg"
                             xmlns="http://www.w3.org/2000/svg" version="1.0" width="200.00002" height="33.736176" id="svg2515" preserveAspectRatio="xMidYMid meet" viewBox="0 0 200 34">
@@ -1774,7 +1769,6 @@ description: Info about G-Code and Slicers
                 </div>
                 <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 56.8889px; height: 44px; left: 452px; top: 654px;">
                     <div class="sl-block-content fragment" style="z-index: 16;" data-inline-svg="true" data-fragment-index="25">
-                        <img data-natural-width="2560" data-natural-height="1980" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/3186552/Wikipedia-W-visual-balanced-white.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -1807,7 +1801,6 @@ description: Info about G-Code and Slicers
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 18;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -2186,7 +2179,6 @@ description: Info about G-Code and Slicers
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 13;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -2568,7 +2560,6 @@ G00 X0. Y0. Z0.25</code></pre>
                 </div>
                 <div class="sl-block" data-block-type="image" style="min-width: 30px; min-height: 30px; width: 33.75px; height: 30px; left: 720px; top: 565px;">
                     <div class="sl-block-content fragment" style="z-index: 16;" data-inline-svg="true" data-fragment-index="1">
-                        <img data-natural-width="9" data-natural-height="8" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/3186460/github-logo-white.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -2746,7 +2737,6 @@ G00 X0. Y0. Z0.25</code></pre>
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 23;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -3112,7 +3102,6 @@ G00 X0. Y0. Z0.25</code></pre>
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 12;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
@@ -3495,7 +3484,6 @@ G00 X0. Y0. Z0.25</code></pre>
                 </div>
                 <div class="sl-block" data-block-type="image" style="width: 114px; height: 114px; left: 846px; top: 586px;">
                     <div class="sl-block-content" style="z-index: 13;" data-inline-svg="true">
-                        <img data-natural-width="330" data-natural-height="330" data-src="https://s3.amazonaws.com/media-p.slid.es/uploads/305792/images/2889842/logo.svg"/>
                         <svg
                             xmlns:dc="http://purl.org/dc/elements/1.1/"
                             xmlns:cc="http://creativecommons.org/ns#"
