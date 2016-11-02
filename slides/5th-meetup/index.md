@@ -27,17 +27,17 @@ description: Info about G-Code and Slicers
                                 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                                 <defs id="defs4">
-                                    <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                    <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                                 </defs>
-                                <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                                <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                                 <metadata id="metadata7">
-                                    <rdf:rdf>
-                                        <cc:work about="">
-                                            <dc:format>image/svg+xml</dc:format>
-                                            <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                            <dc:title></dc:title>
-                                        </cc:work>
-                                    </rdf:rdf>
+                                    <rdf>
+                                        <work about="">
+                                            <format>image/svg+xml</format>
+                                            <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                            <title></title>
+                                        </work>
+                                    </rdf>
                                 </metadata>
                                 <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                     <g groupmode="layer" id="layer4" label="box">
@@ -398,13 +398,13 @@ description: Info about G-Code and Slicers
                                     </clipPath>
                                 </defs>
                                 <metadata id="metadata7">
-                                    <rdf:rdf>
-                                        <cc:work about="">
-                                            <dc:format>image/svg+xml</dc:format>
-                                            <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                            <dc:title></dc:title>
-                                        </cc:work>
-                                    </rdf:rdf>
+                                    <rdf>
+                                        <work about="">
+                                            <format>image/svg+xml</format>
+                                            <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                            <title></title>
+                                        </work>
+                                    </rdf>
                                 </metadata>
                                 <g id="layer19" style="display:inline"></g>
                                 <g id="layer1" transform="translate(0,-526.1811)" style="display:inline">
@@ -896,17 +896,17 @@ description: Info about G-Code and Slicers
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
@@ -1285,17 +1285,17 @@ description: Info about G-Code and Slicers
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
@@ -1784,16 +1784,16 @@ description: Info about G-Code and Slicers
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="0.32" width="2560" height="1980" docname="Wikipedia-W-visual-balanced-white.svg" viewBox="0 0 2560 1980" preserveAspectRatio="xMidYMid meet">
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <defs id="defs5"></defs>
-                            <sodipodi:namedview window-height="1080" window-width="1694" pageshadow="2" pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" zoom="0.43976328" cx="766.05897" cy="966.00779" window-x="0" window-y="0" current-layer="svg2" showgrid="false" window-maximized="0"></sodipodi:namedview>
+                            <namedview window-height="1080" window-width="1694" pageshadow="2" pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" zoom="0.43976328" cx="766.05897" cy="966.00779" window-x="0" window-y="0" current-layer="svg2" showgrid="false" window-maximized="0"></namedview>
                             <path style="fill:#ffffff;stroke:none;stroke-opacity:1;fill-opacity:1" d="M 1572.1849,1627.0102 L 1306.1823,1000.5074 C 1200.7894,1207.291 1084.0203,1422.1816 984.08831,1626.6832 C 983.53491,1627.7421 935.794,1627.1196 935.77253,1626.4919 C 783.04844,1270.1035 624.71738,916.06238 471.26086,559.94868 C 435.66961,472.89603 311.0572,332.8557 225.80114,333.65195 C 225.76971,323.53653 225.29834,300.99862 225.16,287.33013 L 750.89976,287.08145 L 750.54242,332.79388 C 688.79634,335.67165 582.11762,375.05651 609.73219,443.22102 C 683.86449,603.19953 946.23106,1223.0478 1017.1409,1380.4024 C 1066.641,1283.5588 1204.8145,1025.3915 1261.6829,916.2347 C 1217.0904,824.72656 1069.6975,483.01874 1025.5083,396.94216 C 992.18197,340.84736 908.55536,333.9725 844.13274,333.01061 C 844.1545,318.59759 844.93547,307.56947 844.59744,287.87508 L 1306.8137,289.29857 L 1306.8137,331.26914 C 1244.2196,333.00671 1184.9916,356.28709 1211.7969,416.09209 C 1273.9744,545.15815 1310.2452,637.01602 1367.4138,756.373 C 1385.6741,721.42114 1479.0241,529.76675 1523.579,428.57055 C 1550.5151,361.35388 1510.3073,336.12224 1397.6899,333.09483 C 1399.1803,322.03539 1398.1983,299.82396 1399.1438,289.23999 C 1542.8636,288.6988 1759.8754,288.19612 1798.3033,287.61641 L 1798.5147,331.29405 C 1725.1519,334.14041 1649.2691,373.23281 1609.6216,433.88446 L 1417.409,832.52052 C 1438.5181,885.30935 1623.2926,1295.8072 1642.7704,1341.3349 L 2040.1763,424.18373 C 2011.9121,349.90516 1921.7067,333.32268 1886.441,332.48569 C 1886.694,320.67644 1886.714,302.6313 1886.8135,287.60007 L 2301.6607,290.75568 L 2302.2236,292.85218 L 2301.5147,332.29405 C 2210.5034,335.03668 2154.2035,383.69856 2120.5658,463.48139 C 2037.8986,650.21948 1785.1772,1241.6764 1616.5009,1627.1414 C 1616.28,1627.3528 1572.2823,1627.0763 1572.1849,1627.0102 z " id="path1873" nodetypes="cccccccccccccccccccccccccccccccccccc"></path>
                         </svg>
                     </div>
@@ -1817,17 +1817,17 @@ description: Info about G-Code and Slicers
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
@@ -2196,17 +2196,17 @@ description: Info about G-Code and Slicers
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
@@ -2578,15 +2578,15 @@ G00 X0. Y0. Z0.25</code></pre>
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="8.6789684" height="8.4666672" viewBox="0 0 30.75225 30.000002" id="svg4547" version="1.1" docname="github-logo-white.svg" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4549"></defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="11.2" cx="16.095905" cy="7.4325848" document-units="px" current-layer="g4677" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" window-width="1920" window-height="1017" window-x="1912" window-y="-8" window-maximized="1"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="11.2" cx="16.095905" cy="7.4325848" document-units="px" current-layer="g4677" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" window-width="1920" window-height="1017" window-x="1912" window-y="-8" window-maximized="1"></namedview>
                             <metadata id="metadata4552">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="Layer 1" groupmode="layer" id="layer1" transform="translate(-378.90959,-543.07649)">
                                 <g style="display:inline" id="g4717" transform="matrix(0.0701232,0,0,0.0701232,378.90959,542.70028)">
@@ -2618,11 +2618,11 @@ G00 X0. Y0. Z0.25</code></pre>
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 139 139">
                             <defs>
-                                <clipPath id="shape-mask-1102-1478095680222">
+                                <clipPath id="shape-mask-1-1478111389405">
                                     <ellipse rx="69.5" ry="69.5" cx="69.5" cy="69.5"></ellipse>
                                 </clipPath>
                             </defs>
-                            <ellipse rx="69.5" ry="69.5" cx="69.5" cy="69.5" clip-path="url(#shape-mask-1102-1478095680222)" class="shape-element" fill="rgb(0, 0, 0)" stroke="#93c47d" stroke-width="8"></ellipse>
+                            <ellipse rx="69.5" ry="69.5" cx="69.5" cy="69.5" clip-path="url(#shape-mask-1-1478111389405)" class="shape-element" fill="rgb(0, 0, 0)" stroke="#93c47d" stroke-width="8"></ellipse>
                         </svg>
                     </div>
                 </div>
@@ -2636,20 +2636,20 @@ G00 X0. Y0. Z0.25</code></pre>
                 <div class="sl-block" data-block-type="text" style="width: 836px; left: 80px; top: 192px; height: auto;">
                     <div class="sl-block-content" style="z-index: 11;" dir="ui">
                         <ul>
-                            <li class="fragment" data-fragment-index="1">G-code is extremely precise, at a cost of length&nbsp;</li>
-                            <li class="fragment" data-fragment-index="3">A slicer is used to interpret CAD file (maybe just STL), and convert to G-Code
+                            <li class="fragment">G-code is extremely precise, at a cost of length&nbsp;</li>
+                            <li class="fragment">A slicer is used to interpret CAD file (maybe just STL), and convert to G-Code
 	
                                 <ul>
-                                    <li>Needs information about machine
+                                    <li>Needs information about
                                         <br/>
-		​for accurate translation
+		machine ​for translation
                                     </li>
                                 </ul>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 279px; height: 349px; left: 661px; top: 281px;">
+                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 370px; height: 362px; left: 582px; top: 278px;">
                     <div class="sl-block-content fragment" style="z-index: 12; font-size: 150%;" data-highlight-theme="far" data-fragment-index="4">
                         <pre class="none">
                             <code>G17 G20 G90 G94 G54
@@ -2665,22 +2665,22 @@ G01 Z0.1 F5.
 G00 X0. Y0. Z0.25</code></pre>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 200px; height: 50px; left: 86px; top: 498px;">
+                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 209px; height: 50px; left: 40px; top: 498px;">
                     <div class="sl-block-content fragment" style="z-index: 13; font-size: 150%;" data-highlight-theme="obsidian" data-fragment-index="2">
                         <pre class="css">
                             <code>circle(d = 1);</code></pre>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="shape" style="min-width: 4px; min-height: 4px; width: 185px; height: 176px; left: 388px; top: 433px;">
-                    <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgb(194, 123, 160)" data-shape-stretch="true" style="z-index: 15;" data-fragment-index="3">
+                <div class="sl-block" data-block-type="shape" style="min-width: 4px; min-height: 4px; width: 185px; height: 176px; left: 330px; top: 433px;">
+                    <div class="sl-block-content fragment" data-shape-type="rect" data-shape-fill-color="rgb(194, 123, 160)" data-shape-stretch="true" style="z-index: 15;" data-fragment-index="5">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 185 176">
                             <rect width="185" height="176" class="shape-element" fill="rgb(194, 123, 160)"></rect>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="shape" style="min-width: 4px; min-height: 4px; width: 58px; height: 26px; left: 320px; top: 508px;">
-                    <div class="sl-block-content" data-shape-type="symbol-thin-arrow-right" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 16;">
+                <div class="sl-block" data-block-type="shape" style="min-width: 4px; min-height: 4px; width: 58px; height: 26px; left: 263px; top: 508px;">
+                    <div class="sl-block-content fragment" data-shape-type="symbol-thin-arrow-right" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 16;" data-fragment-index="3">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="2 4 28 24">
                             <g class="shape-element" fill="rgb(255, 255, 255)">
@@ -2689,8 +2689,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="shape" style="min-width: 4px; min-height: 4px; width: 58px; height: 26px; left: 582px; top: 507px;">
-                    <div class="sl-block-content" data-shape-type="symbol-thin-arrow-right" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 17;">
+                <div class="sl-block" data-block-type="shape" style="min-width: 4px; min-height: 4px; width: 58px; height: 26px; left: 521px; top: 507px;">
+                    <div class="sl-block-content fragment" data-shape-type="symbol-thin-arrow-right" data-shape-fill-color="rgb(255, 255, 255)" data-shape-stretch="true" style="z-index: 17;" data-fragment-index="4">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" preserveAspectRatio="none" viewBox="2 4 28 24">
                             <g class="shape-element" fill="rgb(255, 255, 255)">
@@ -2699,8 +2699,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 388px; top: 484px;">
-                    <div class="sl-block-content" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 18;">
+                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 330px; top: 484px;">
+                    <div class="sl-block-content fragment" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 18;" data-fragment-index="5">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="185" height="1" viewBox="8 200 185 1">
                             <line stroke="rgba(0,0,0,0)" stroke-width="15" x1="8" y1="200" x2="193" y2="200"></line>
@@ -2708,8 +2708,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 388px; top: 520px;">
-                    <div class="sl-block-content" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 19;">
+                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 330px; top: 520px;">
+                    <div class="sl-block-content fragment" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 19;" data-fragment-index="5">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="185" height="1" viewBox="8 200 185 1">
                             <line stroke="rgba(0,0,0,0)" stroke-width="15" x1="8" y1="200" x2="193" y2="200"></line>
@@ -2717,8 +2717,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 388px; top: 557px;">
-                    <div class="sl-block-content" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 20;">
+                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 330px; top: 557px;">
+                    <div class="sl-block-content fragment" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 20;" data-fragment-index="5">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="185" height="1" viewBox="8 200 185 1">
                             <line stroke="rgba(0,0,0,0)" stroke-width="15" x1="8" y1="200" x2="193" y2="200"></line>
@@ -2726,8 +2726,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 388px; top: 590px;">
-                    <div class="sl-block-content" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 21;">
+                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 330px; top: 590px;">
+                    <div class="sl-block-content fragment" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 21;" data-fragment-index="5">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="185" height="1" viewBox="8 200 185 1">
                             <line stroke="rgba(0,0,0,0)" stroke-width="15" x1="8" y1="200" x2="193" y2="200"></line>
@@ -2735,8 +2735,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 388px; top: 451px;">
-                    <div class="sl-block-content" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 22;">
+                <div class="sl-block" data-block-type="line" style="width: auto; height: auto; min-width: 1px; min-height: 1px; left: 330px; top: 451px;">
+                    <div class="sl-block-content fragment" data-line-x1="8" data-line-y1="200" data-line-x2="193" data-line-y2="200" data-line-color="#ffffff" data-line-start-type="none" data-line-end-type="none" style="z-index: 22;" data-fragment-index="5">
                         <svg
                             xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" width="185" height="1" viewBox="8 200 185 1">
                             <line stroke="rgba(0,0,0,0)" stroke-width="15" x1="8" y1="200" x2="193" y2="200"></line>
@@ -2756,17 +2756,17 @@ G00 X0. Y0. Z0.25</code></pre>
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
@@ -3122,17 +3122,17 @@ G00 X0. Y0. Z0.25</code></pre>
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
@@ -3505,17 +3505,17 @@ G00 X0. Y0. Z0.25</code></pre>
                             xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                             xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="330.04492" height="330.04492" viewBox="0 0 1169.4505 1169.4505" id="svg2" version="1.1" docname="logo.svg" export-filename="C:\Users\hqp\Dropbox (ORNL)\Meetups\knox3dp\knox3dp-logo-idea5.png" export-xdpi="107.8" export-ydpi="107.8" preserveAspectRatio="xMidYMid meet">
                             <defs id="defs4">
-                                <inkscape:perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></inkscape:perspective>
+                                <perspective type="inkscape:persp3d" vp_x="183.40583 : 95.833651 : 1" vp_y="697.11941 : 835.22067 : 1" vp_z="1232.4534 : 92.51909 : 1" persp3d-origin="706.27232 : 340.83924 : 1" id="perspective4140"></perspective>
                             </defs>
-                            <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></sodipodi:namedview>
+                            <namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" pageopacity="0.0" pageshadow="2" zoom="0.5" cx="-50.304317" cy="806.67402" document-units="px" current-layer="layer15" showgrid="false" window-width="1920" window-height="1005" window-x="1911" window-y="-9" window-maximized="1" fit-margin-right="23.65" fit-margin-top="70.57392" fit-margin-left="23.65" fit-margin-bottom="70.57392"></namedview>
                             <metadata id="metadata7">
-                                <rdf:rdf>
-                                    <cc:work about="">
-                                        <dc:format>image/svg+xml</dc:format>
-                                        <dc:type resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
-                                        <dc:title></dc:title>
-                                    </cc:work>
-                                </rdf:rdf>
+                                <rdf>
+                                    <work about="">
+                                        <format>image/svg+xml</format>
+                                        <type resource="http://purl.org/dc/dcmitype/StillImage"></type>
+                                        <title></title>
+                                    </work>
+                                </rdf>
                             </metadata>
                             <g label="idea 1" groupmode="layer" id="layer1" transform="translate(23.926631,-92.969979)" style="display:none">
                                 <g groupmode="layer" id="layer4" label="box">
