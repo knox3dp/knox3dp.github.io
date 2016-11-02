@@ -2535,8 +2535,8 @@ description: Info about G-Code and Slicers
                         </svg>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 279px; height: 349px; left: 629px; top: 203px;">
-                    <div class="sl-block-content fragment" style="z-index: 14; font-size: 150%;" data-fragment-index="1" data-highlight-theme="far">
+                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; left: 629px; top: 203px;">
+                    <div class="sl-block-content fragment" style="z-index: 14; font-size: 100%;" data-fragment-index="1" data-highlight-theme="far">
                         <pre class="none">
                             <code>G17 G20 G90 G94 G54
 G0 Z0.25
@@ -2640,8 +2640,8 @@ G00 X0. Y0. Z0.25</code></pre>
                         </ul>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 370px; height: 362px; left: 582px; top: 278px;">
-                    <div class="sl-block-content fragment" style="z-index: 12; font-size: 150%;" data-highlight-theme="far" data-fragment-index="4">
+                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; left: 582px; top: 300px;">
+                    <div class="sl-block-content fragment" style="z-index: 12; font-size: 100%;" data-highlight-theme="far" data-fragment-index="4">
                         <pre class="none">
                             <code>G17 G20 G90 G94 G54
 G0 Z0.25
@@ -2656,8 +2656,8 @@ G01 Z0.1 F5.
 G00 X0. Y0. Z0.25</code></pre>
                     </div>
                 </div>
-                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; width: 209px; height: 50px; left: 40px; top: 498px;">
-                    <div class="sl-block-content fragment" style="z-index: 13; font-size: 150%;" data-highlight-theme="obsidian" data-fragment-index="2">
+                <div class="sl-block" data-block-type="code" style="min-width: 30px; min-height: 30px; left: 40px; top: 488px;">
+                    <div class="sl-block-content fragment" style="z-index: 13; font-size: 100%;" data-highlight-theme="obsidian" data-fragment-index="2">
                         <pre class="css">
                             <code>circle(d = 1);</code></pre>
                     </div>
